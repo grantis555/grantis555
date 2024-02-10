@@ -1,3 +1,3 @@
 Hi,
-Im Grant
+Im Grant,
 Front-end developer
